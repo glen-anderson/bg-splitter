@@ -1,0 +1,24 @@
+{
+  "name": "bg-splitter",
+  "version": "0.1.0",
+  "description": "Simple pane splitter for angular.js",
+  "main": "js/splitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glen-anderson/bg-splitter.git"
+  },
+  "keywords": [
+    "splitter",
+    "angular-js",
+    "javascript"
+  ],
+  "author": "blackgate",
+  "license": "MIT",
+  "homepage": "https://blackgate.github.io/bg-splitter/",
+  "dependencies": {
+    "angular": "^1.4.9"
+  }
+}
